@@ -15,4 +15,4 @@ Basta abrir o arquivo `index.html` no seu navegador favorito e testar a experiê
 🔗 **Acesse o projeto online:** [GitHub Pages](https://viniciusprogrammer.github.io/tela-login/)
 
 ---
-💙 Feito com carinho por [Vinicius Davi]
+💙 Desenvolvido por [Vinicius Davi]
