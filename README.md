@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao projeto de Login! 🚀
 
-Este é um design simples, elegante e responsivo para autenticação de usuários. A interface foi criada com HTML5 e CSS3, trazendo um toque moderno com a paleta de cores **verde** e **aquamarine**. 🎨
+Este é um design simples, elegante e responsivo para autenticação de usuários. A interface foi criada com HTML5 e CSS3, trazendo um toque moderno com a paleta de cores **verde** e **lilás**. 🎨
 
 ## 💡 Destaques
 ✅ Design intuitivo e responsivo 📱💻  
@@ -12,6 +12,7 @@ Este é um design simples, elegante e responsivo para autenticação de usuário
 ## 🛠 Como Usar?
 Basta abrir o arquivo `index.html` no seu navegador favorito e testar a experiência de login! 😉
 
----
-💙 Desenvolvido por [Vincius Davi]
+🔗 **Acesse o projeto online:** [GitHub Pages](https://viniciusprogrammer.github.io/tela-login/)
 
+---
+💙 Feito com carinho por [Vinicius Davi]
